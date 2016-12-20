@@ -60,4 +60,4 @@ e.g. `./videos/react/Getting Started with React Router/01-Introduction.mp4`
 
 ## Special Thanks
 
-	[SimonSelg](https://github.com/SimonSelg/) - the author of [egghead-downloader](https://github.com/SimonSelg/egghead-downloader)
+[SimonSelg](https://github.com/SimonSelg/) - the author of [egghead-downloader](https://github.com/SimonSelg/egghead-downloader)
